@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratyaksh shivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyaksh shivhare" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/pratyaksh shivhare](https://www.linkedin.com/in/pratyaksh-s-52314a116/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyaksh shivhare" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratyakshshivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratyakshshivhare" height="30" width="40" /></a>
 </p>
 
